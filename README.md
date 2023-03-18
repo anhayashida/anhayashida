@@ -7,7 +7,6 @@
   - [osTicket: Post-Installation Configuration](https://github.com/anhayashida/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/anhayashida/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Setting up Azure VMs and Observing Network Traffic using WireShark](https://github.com/anhayashida/vm-network-traffic)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/anhayashida/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/anhayashida/azure-network-protocols)
 
